@@ -73,6 +73,10 @@ This project features a **Production-Grade Dashboard** with real-time analytics,
 *   **Export Capabilities:** Download reports in **.TXT** (for documentation) or **.JSON** (for API integration).
 *   **Ticket History:** Session-based tracking of recently processed tickets.
 
+
+---
+📊 Dataset Used:
+Customer Support Ticket Dataset (Kaggle): https://lnkd.in/d_dataset_link
 ---
 
 ## 🏗️ Technical Architecture
