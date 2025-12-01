@@ -76,7 +76,7 @@ This project features a **Production-Grade Dashboard** with real-time analytics,
 ---
 
 ## 🏗️ Technical Architecture
-
+```mermaid
 
 graph LR
     A[Customer Ticket] --> B{Hybrid System}
