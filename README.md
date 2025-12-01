@@ -59,7 +59,7 @@ This project features a **Production-Grade Dashboard** with real-time analytics,
 
 ## 🏗️ Technical Architecture
 
-```mermaid
+
 graph LR
     A[Customer Ticket] --> B{Hybrid System}
     B -->|Path 1: Speed| C[Classical ML Model]
@@ -151,4 +151,3 @@ expand_less
 5.  Click on the image on GitHub to get its **URL**.
 6.  Edit the `README.md` and replace `insert_your_screenshot_1_here.png` with that URL.
 
-This README will make your project look like a serious software product! 🚀
