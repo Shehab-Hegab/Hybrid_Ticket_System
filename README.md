@@ -37,7 +37,7 @@ This project features a **Production-Grade Dashboard** with real-time analytics,
 > *Real-time analysis, ML Classification, Sentiment Detection, and AI Drafting.*
 
 ![Main Workspace](https://github.com/user-attachments/assets/c1b5fb58-63e6-4854-a76a-1b3b57e6b1c0)
-
+##<img width="1800" height="587" alt="image" src="https://github.com/user-attachments/assets/dcf2161c-acc2-47ba-8d17-f7de227f6c71" />
 ### 2. Manager Analytics & Insights
 > *Live KPI monitoring, Department Workload distribution, and Weekly Trend Analysis.*
 
