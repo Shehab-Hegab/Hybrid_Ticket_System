@@ -77,6 +77,12 @@ This project features a **Production-Grade Dashboard** with real-time analytics,
 ---
 📊 Dataset Used:
 Customer Support Ticket Dataset (Kaggle): https://lnkd.in/d_dataset_link
+
+### 🔗 Project Demo
+
+Watch the full project demo on LinkedIn:
+[**Project Demo — LinkedIn Post**](https://www.linkedin.com/posts/shehab-hegab%F0%9F%87%B5%F0%9F%87%B8-5303491b7_datascience-machinelearning-genai-activity-7401403249414705152-HD3K?utm_source=share&utm_medium=member_desktop&rcm=ACoAADJrF7QBd9Oce1lYAjrVMkebIhqFwZLmCwk)
+
 ---
 
 ## 🏗️ Technical Architecture
